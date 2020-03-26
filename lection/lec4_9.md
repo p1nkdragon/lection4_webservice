@@ -1,9 +1,9 @@
-# *Жирный шрифт* - ответственность поставщика услуги
+<p><b style="color:orange">Оранжевый</b> - ответственность поставщика услуги</p>
 <table border="0.5">
 
     <tr height="40">
         <th>Traditional IT</th>
-        <th><i>Hosting</i>/
+        <th><i style="color:red">Hosting</i>/
           Colocation</th>
         <th>IaaS</th>
         <th>PaaS</th>
@@ -21,48 +21,49 @@
         <td>Приложения</td>
         <td>Приложения</td>
         <td>Приложения</td>
-        <td><strong>Приложения</td>
+        <td style="color:orange"><strong>Приложения</td>
     </tr>
     <tr height="40">
         <td>Базы данных</td>
         <td>Базы данных</td>
         <td>Базы данных</td>
-        <td><strong>Базы данных</td>
-        <td><strong>Базы данных</td>
+        <td style="color:orange"><strong>Базы данных</td>
+        <td style="color:orange"><strong>Базы данных</td>
     </tr>
     <tr height="40">
         <td>Операционная система</td>
         <td>Операционная система</td>
         <td>Операционная система</td>
-        <td><strong>Операционная система</td>
-        <td><strong>Операционная система</td>
+        <td style="color:orange"><strong>Операционная система</td>
+        <td style="color:orange"><strong>Операционная система</td>
     </tr>
     <tr height="40">
         <td>Виртуализация</td>
         <td>Виртуализация</td>
-        <td><strong>Виртуализация</td>
-        <td><strong>Виртуализация</td>
-        <td><strong>Виртуализация</td>
+        <td style="color:orange"><strong>Виртуализация</td>
+        <td style="color:orange"><strong>Виртуализация</td>
+        <td style="color:orange"><strong>Виртуализация</td>
     </tr>
     <tr height="40">
         <td>Физический сервер</td>
-        <td><i>Физический сервер</td>
-        <td><strong>Физический сервер</td>
-        <td><strong>Физический сервер</td>
-        <td><strong>Физический сервер</td>
+        <td style="color:red"><i>Физический сервер</td>
+        <td style="color:orange"><strong>Физический сервер</td>
+        <td style="color:orange"><strong>Физический сервер</td>
+        <td style="color:orange"><strong>Физический сервер</td>
     </tr>
     <tr height="40">
         <td>Сети и хранилища</td>
-        <td><i>Сети и хранилища</td>
-        <td><strong>Сети и хранилища</td>
-        <td><strong>Сети и хранилища</td>
-        <td><strong>Сети и хранилища</td>
+        <td style="color:red"><i>Сети и хранилища</td>
+        <td style="color:orange"><strong>Сети и хранилища</td>
+        <td style="color:orange"><strong>Сети и хранилища</td>
+        <td style="color:orange"><strong>Сети и хранилища</td>
     </tr>
     <tr height="40">
         <td>Дата-центр</td>
-        <td><strong>Дата-центр</td>
-        <td><strong>Дата-центр</td>
-        <td><strong>Дата-центр</td>
-        <td><strong>Дата-центр</td>
+        <td style="color:orange"><strong>Дата-центр</td>
+        <td style="color:orange"><strong>Дата-центр</td>
+        <td style="color:orange"><strong>Дата-центр</td>
+        <td style="color:orange"><strong>Дата-центр</td>
     </tr>
 </table>
+ 
