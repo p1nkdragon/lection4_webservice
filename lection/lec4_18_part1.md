@@ -1,4 +1,4 @@
-![](lec4_18_part1_ris.png)
+![](lec4_18_part1_ris.PNG)
 
 
 
